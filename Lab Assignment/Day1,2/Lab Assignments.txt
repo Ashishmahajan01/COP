@@ -1,0 +1,22 @@
+n 
+
+
+	Notebook 
+
+	// set path
+
+
+	1) write a code to check prime number using class and methods 
+
+	2)  write a program for fibonacci series to n number 
+
+	3)  Create Calculator Program 
+		acceptData()
+		addition()
+		subtraction()
+		division()
+		multiplication()
+
+	after accepting data take choice from user and display required output 
+
+	4)  write a program to show even number within range accepted from user 
